@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <world name="default">
+  <scene>
+      <shadows>false</shadows>
+      <grid>false</grid>
+      <sky>
+      </sky>
+    </scene>
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <include>
+      <uri>model://vally_paddy</uri>
+      <pose>0 0 0 0 0 0</pose>
+    </include>
+  </world>
+</sdf>
