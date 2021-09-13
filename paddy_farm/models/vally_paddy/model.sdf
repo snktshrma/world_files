@@ -26,7 +26,7 @@
       <!--
       <collision name="collision">
         <geometry>
-            <mesh><uri>model://vally_paddy/meshes/imp.obj</uri>
+            <mesh><uri>model://vally_paddy/meshes/vall.obj</uri>
             </mesh>
           </geometry>
       </collision>
