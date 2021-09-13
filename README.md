@@ -2,7 +2,7 @@
 
 ## For orchard world:
     roslaunch paddy_farm orchards.launch
-![orchard world](https://github.com/snktshrma/world_files/blob/main/extras/orchards.png?raw=true)
+![orchard world](https://github.com/snktshrma/world_files/blob/main/extras/orchards.jpg?raw=true)
 ## For valley world:
     roslaunch paddy_farm paddy_v.launch
 ![valley world](https://github.com/snktshrma/world_files/blob/main/extras/valley.png?raw=true)
