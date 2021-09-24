@@ -1,5 +1,17 @@
 # world_files
 
+## For sine terrain:
+    roslaunch imp_wrlds sine.launch
+![sine terrain](https://github.com/snktshrma/world_files/blob/main/extras/sine.png?raw=true)
+## For square terrain:
+    roslaunch imp_wrlds sqr.launch
+![square terrain](https://github.com/snktshrma/world_files/blob/main/extras/sqr.png?raw=true)
+## For triangular terrain:
+    roslaunch imp_wrlds tri.launch
+![triangular terrain](https://github.com/snktshrma/world_files/blob/main/extras/tri.png?raw=true)
+## For triangular terrain 2:
+    roslaunch imp_wrlds tri2.launch
+![triangular terrain 2](https://github.com/snktshrma/world_files/blob/main/extras/tri2.png?raw=true)
 ## For orchard world:
     roslaunch paddy_farm orchards.launch
 ![orchard world](https://github.com/snktshrma/world_files/blob/main/extras/orchards.jpg?raw=true)
