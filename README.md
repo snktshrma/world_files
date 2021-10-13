@@ -1,5 +1,11 @@
 # world_files
 
+## For sloppy_step world:
+    roslaunch imp_wrlds sloppy.launch
+![sloppy terrain](https://github.com/snktshrma/world_files/blob/main/extras/sloppy.png?raw=true)
+## For sep terrain:
+    roslaunch imp_wrlds step.launch
+![Step terrain](https://github.com/snktshrma/world_files/blob/main/extras/step.png?raw=true)
 ## For sine terrain:
     roslaunch imp_wrlds sine.launch
 ![sine terrain](https://github.com/snktshrma/world_files/blob/main/extras/sine.png?raw=true)
